@@ -19,7 +19,7 @@ int main ()
 	cout << "Enter your school:\t";
 	cin >> school;
 	
-	cout << "Wow congrats " << nickname << " and your are studying " << course << " year " << year << " and you are studying in " << school << " which is one the excellencent teritiary education " << endl;
+	cout << "Wow Congrats " << nickname << " and your are studying " << course << " year " << year << " and you are studying in " << school << " which is one of the Center of Excellencent Teritiary Education " << endl;
 
 	return 0;
 }	
